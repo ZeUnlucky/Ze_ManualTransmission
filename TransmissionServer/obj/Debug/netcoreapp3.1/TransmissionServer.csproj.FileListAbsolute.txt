@@ -1,0 +1,10 @@
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\bin\Debug\netcoreapp3.1\TransmissionServer.deps.json
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\bin\Debug\netcoreapp3.1\TransmissionServer.dll
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\bin\Debug\netcoreapp3.1\TransmissionServer.pdb
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\obj\Debug\netcoreapp3.1\TransmissionServer.csproj.AssemblyReference.cache
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\obj\Debug\netcoreapp3.1\TransmissionServer.GeneratedMSBuildEditorConfig.editorconfig
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\obj\Debug\netcoreapp3.1\TransmissionServer.AssemblyInfoInputs.cache
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\obj\Debug\netcoreapp3.1\TransmissionServer.AssemblyInfo.cs
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\obj\Debug\netcoreapp3.1\TransmissionServer.csproj.CoreCompileInputs.cache
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\obj\Debug\netcoreapp3.1\TransmissionServer.dll
+Z:\RageServer\server-files\dotnet\resources\TransmissionServer\obj\Debug\netcoreapp3.1\TransmissionServer.pdb

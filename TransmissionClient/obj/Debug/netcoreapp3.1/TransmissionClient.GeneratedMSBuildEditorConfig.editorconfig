@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TransmissionClient
+build_property.ProjectDir = Z:\RageServer\server-files\dotnet\resources\TransmissionClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

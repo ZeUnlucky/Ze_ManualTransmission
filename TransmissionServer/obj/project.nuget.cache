@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwzpIpJIW2V0B2lYzoYRXC5stH4TIX1e9eOvRBeY0CWb8gT1jenHEYMlhB1yChmUvhPPSKtpZxA77185ff6qrw==",
+  "success": true,
+  "projectFilePath": "Z:\\RageServer\\server-files\\dotnet\\resources\\TransmissionServer\\TransmissionServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tohar\\.nuget\\packages\\ragemp-bootstrapper\\1.1.3\\ragemp-bootstrapper.1.1.3.nupkg.sha512",
+    "C:\\Users\\Tohar\\.nuget\\packages\\ragemp-customcommandssystem\\1.1.0\\ragemp-customcommandssystem.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TransmissionServer/1.0.0": {
+        "dependencies": {
+          "RAGEMP-CustomCommandsSystem": "1.1.0"
+        },
+        "runtime": {
+          "TransmissionServer.dll": {}
+        }
+      },
+      "RAGEMP-Bootstrapper/1.1.3": {
+        "runtime": {
+          "lib/netcoreapp3.1/Bootstrapper.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "RAGEMP-CustomCommandsSystem/1.1.0": {
+        "dependencies": {
+          "RAGEMP-Bootstrapper": "1.1.3"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/CustomCommandSystem.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netcoreapp3.1/CustomCommandSystem.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netcoreapp3.1/CustomCommandSystem.Integration.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netcoreapp3.1/CustomCommandSystem.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransmissionServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RAGEMP-Bootstrapper/1.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9fEMNOlyqNRgmccLBc8lxjc4h+STbAlbaSmzfp9cD6hoKM26P565XVZMrVOARO12SWWIrtIwkNWgTXj3Zj/u0A==",
+      "path": "ragemp-bootstrapper/1.1.3",
+      "hashPath": "ragemp-bootstrapper.1.1.3.nupkg.sha512"
+    },
+    "RAGEMP-CustomCommandsSystem/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-si4N1MY9FRJwPJq56qgawD7mkXdDkmt+S9yxF+kio8wi7Hc1vi2BSayFXoBNE/JML2KTGday883ojr19+YSBmg==",
+      "path": "ragemp-customcommandssystem/1.1.0",
+      "hashPath": "ragemp-customcommandssystem.1.1.0.nupkg.sha512"
+    }
+  }
+}
