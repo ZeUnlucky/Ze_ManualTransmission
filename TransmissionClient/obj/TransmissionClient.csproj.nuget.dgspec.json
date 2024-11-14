@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\RageServer\\server-files\\dotnet\\resources\\TransmissionClient\\TransmissionClient.csproj": {}
+    "Z:\\RageGit\\Ze_ManualTransmission\\TransmissionClient\\TransmissionClient.csproj": {}
   },
   "projects": {
-    "Z:\\RageServer\\server-files\\dotnet\\resources\\TransmissionClient\\TransmissionClient.csproj": {
+    "Z:\\RageGit\\Ze_ManualTransmission\\TransmissionClient\\TransmissionClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\RageServer\\server-files\\dotnet\\resources\\TransmissionClient\\TransmissionClient.csproj",
+        "projectUniqueName": "Z:\\RageGit\\Ze_ManualTransmission\\TransmissionClient\\TransmissionClient.csproj",
         "projectName": "TransmissionClient",
-        "projectPath": "Z:\\RageServer\\server-files\\dotnet\\resources\\TransmissionClient\\TransmissionClient.csproj",
+        "projectPath": "Z:\\RageGit\\Ze_ManualTransmission\\TransmissionClient\\TransmissionClient.csproj",
         "packagesPath": "C:\\Users\\Tohar\\.nuget\\packages\\",
-        "outputPath": "Z:\\RageServer\\server-files\\dotnet\\resources\\TransmissionClient\\obj\\",
+        "outputPath": "Z:\\RageGit\\Ze_ManualTransmission\\TransmissionClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tohar\\AppData\\Roaming\\NuGet\\NuGet.Config",

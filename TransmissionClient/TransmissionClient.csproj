@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Reference Include="rage-sharpN">
-      <HintPath>..\..\runtime\rage-sharpN.dll</HintPath>
+      <HintPath>..\..\..\RageServer\server-files\dotnet\runtime\rage-sharpN.dll</HintPath>
     </Reference>
   </ItemGroup>
 
